@@ -5,8 +5,8 @@ Translating statistical mechanics, network topology, and time-series modeling in
 ---
 
 ### 🌐 Live Deliverable & Interactive Demos
-* **[Live App] [Cross-Asset Market Stress & Network Topology Explorer]([https://your-streamlit-app-link.streamlit.app](https://cross-asset-market-network-nyrhetrjhk4zfvap5pabg2.streamlit.app/))**  
-  *Interactive Streamlit dashboard tracking macro contagion, dynamic systemic stress ($L(t)$), and Marčenko-Pastur Random Matrix Theory (RMT) noise filtering across macro assets and crypto.*
+* **[Live App] [Cross-Asset Market Stress & Network Topology Explorer](https://cross-asset-market-network-nyrhetrjhk4zfvap5pabg2.streamlit.app/)**  
+  *Interactive Streamlit dashboard tracking macro contagion, dynamic systemic stress (L(t)), and Marčenko-Pastur Random Matrix Theory (RMT) noise filtering across macro assets and crypto.*
 
 ---
 
